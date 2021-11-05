@@ -1,0 +1,7 @@
+{
+	"emmet.includeLanguages": {
+		"svelte": "html",
+    "astro": "html"
+	},
+	"tailwindCSS.htmlLanguages": [ "blade", "edge", "eelixir", "ejs", "elixir", "elm", "erb", "eruby", "haml", "handlebars", "htmldjango", "html", "HTML (EEx)", "HTML (Eex)", "html.twig", "jade", "leaf", "markdown", "njk", "nunjucks", "php", "razor", "slim", "svelte", "twig", "vue", "astro" ]
+}

@@ -1,2 +1,1 @@
-# nvim-android
-Berbagai konfigurasi nvim di Android
+Ini adalah isi dari `~/.config/nvim/`
